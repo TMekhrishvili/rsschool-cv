@@ -8,12 +8,13 @@
 * **_LinkedIn:_** https://www.linkedin.com/in/tmekhri/
 
 ## Work experience:  
-**FullStack Developer**  
+
+> **FullStack Developer**  
 Medsoft Georgia  
 2019-Current | Tbilisi, Georgia  
 _Working as_ a FullStack Developer _using_ **.NET & ReactJS**  
----
-**BackEnd Developer**  
+
+> **BackEnd Developer**  
 Geolab  
 2017-2018 | Tbilisi, Georgia  
 _Working as_ a BackEnd Developer _using_ **PHP**  
@@ -39,3 +40,12 @@ _Uzhhorod National University_
 _Free university of Tbilisi_  
 2011 - 2013   
  
+## Digital skills:  
+* HTML 5
+* CSS
+* Javascript
+* React
+* SQL
+* GIT (GitHub)
+* C#
+* Visual Basic
