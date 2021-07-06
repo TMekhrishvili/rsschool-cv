@@ -7,8 +7,8 @@ _middle .Net and React developer at Medsoft Georgia_
 ## Contact details:
 * **_Phone:_**  +995 511173250
 * **_Email:_**  tmekhri@gmail.com
-* **_Github:_** https://github.com/TMekhrishvili
-* **_LinkedIn:_** https://www.linkedin.com/in/tmekhri/
+* **_Github:_** [https://github.com/TMekhrishvili]
+* **_LinkedIn:_** [https://www.linkedin.com/in/tmekhri/]
 
 ## Work experience:  
 
